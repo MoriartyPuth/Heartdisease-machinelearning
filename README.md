@@ -7,7 +7,8 @@ This project utilizes machine learning to identify key clinical and demographic 
 
 The following chart illustrates the absolute importance of each feature in our predictive model. Features with higher values have a greater impact on the final prediction.
 
-![Feature Importance](feature_importance_plot.png)
+<img width="555" height="357" alt="Screenshot 2026-01-31 001053" src="https://github.com/user-attachments/assets/7301393d-f58e-4cae-98f4-83a7b9d1508c" />
+
 
 *The model primarily relies on regional data sources and specific symptoms like chest pain types to make predictions.*
 
