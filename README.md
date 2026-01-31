@@ -1,4 +1,4 @@
-# Heart disease machine learning
+# Heart Disease Prediction Machine Learning
 # Heart Disease Risk Prediction & Analysis
 
 This project utilizes machine learning to identify key clinical and demographic risk factors for heart disease. By analyzing data from multiple clinical studies (Cleveland, Hungary, Switzerland, and VA Long Beach), the model provides insights into which features most significantly influence a diagnosis.
